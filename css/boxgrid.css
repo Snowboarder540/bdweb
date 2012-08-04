@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+
+.boxgrid a{ color:#C8DCE5;
+ /*float:right;*/
+ /*padding:10px;*/
+ }
+ 
+h3{ margin: 10px 10px 0px 10px; color:#FFF; font:12pt Arial, sans-serif; letter-spacing:-1px; font-weight: bold;  }
+
+
+.boxgrid{ 
+        width: 274px; 
+        height: 198px; 
+        margin:20px 16px 20px 20px;
+        float:left; 
+        background:#161613; 
+        /*border: solid 2px #8399AF; */
+        overflow: hidden; 
+        position: relative; 
+}
+        .boxgrid img{ 
+                position: absolute; 
+                top: 0px; 
+                left: 0px; 
+                border: 0px;
+                
+        }
+        .boxgrid p{ 
+                padding: 0px 10px; 
+                color:#afafaf; 
+                font-weight:bold; 
+                font:10pt /*"Lucida Grande",*/ Arial, sans-serif;
+                text-align:left;
+        }
+        
+.boxcaption{ 
+        float: left; 
+        position: absolute; 
+        background: #000; 
+        height: 274px; 
+        width: 100%; 
+        opacity: .8; 
+        /* For IE 5-7 */
+        filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=80);
+        /* For IE 8 */
+        -MS-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+}
+        .captionfull .boxcaption {
+                top: 260px;
+                left: 0px;
+        }
+        /*.caption .boxcaption {*/
+        /*	top: 198;*/
+        /*	left: 0;*/
+        /*}*/
