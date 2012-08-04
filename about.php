@@ -49,7 +49,7 @@ $("#various3").fancybox({
 <meta name="keywords" content="web design, websites, content management, ecommerce, e-commerce, web development, New Zealand, Whangarei, Northland" />
 <meta name="description" content="BDWebProduction started in 2010 as the project of freelance web design and developer Blair Davidson.  As the sole point of accountability for the performance of BDWebProduction I take pride in delivering a quality experience to the client.  From the conceptualisation of your custom design, through the development of the website itself, to personal one on one training, my goal is to deliver a quality product combined with great service throughout the entire process." />
 
-<title>Git Example extra- BDWebProduction - Personal and Small Business Web Design, Development &amp; Ecommerce Solutions - About</title>
+<title>New Change Git Example extra- BDWebProduction - Personal and Small Business Web Design, Development &amp; Ecommerce Solutions - About</title>
 </head>
 <body>
 <?php include_once("includes/analyticstracking.inc.php") ?>
